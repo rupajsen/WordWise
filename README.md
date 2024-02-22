@@ -1,4 +1,4 @@
-## ** WWDC22 Swift Student Challenge !**
+## ** WWDC24 Swift Student Challenge !**
 
 
 [](SCC.pdf)
